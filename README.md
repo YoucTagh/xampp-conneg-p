@@ -1,4 +1,4 @@
-# Content Negotiation by Profile for XAMPP Server
+# Content Negotiation by Profile for Apache2 Server
 
 For each example e.g. [example1](/cnp/examples/example1). we have three main components. 
 * a configuration file e.g. [.htaccess](/cnp/examples/example1/.htaccess)
